@@ -1,0 +1,56 @@
+	.noelbody{
+		background: url("images/html-color-codes-color-tutorials-hero-00e10b1f.jpg") ;
+		background-size: cover;
+		
+				cursor: url('images/cursor.png'), auto;
+
+    } 
+	
+	.daramolabody{
+		background: url("images/cas-history.jpg") ;
+			background-size: cover;
+				cursor: url('images/cursor.png'), auto;
+
+    }  
+	
+	.indexbody{
+		background: url("images/colortheory.jpg") ;
+		background-size: cover;
+		cursor: url('images/cursor.png'), auto;
+    } 
+	
+	
+	
+	p{
+		font-size: 25px;
+	} 
+	
+	h1{
+		font-size: 40px;
+	} 
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: "black";
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-size: 50px;
+
+}
+
+li a:hover {
+    background-color: #111;
+}
+
